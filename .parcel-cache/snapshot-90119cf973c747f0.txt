@@ -1,0 +1,12 @@
+11
+38C:\Users\carmo\Desktop\vanilla-js\dist133680538097075695 1
+49C:\Users\carmo\Desktop\vanilla-js\dist\index.html133680538096669945 0
+65C:\Users\carmo\Desktop\vanilla-js\dist\vanilla-js.59712999.js.map133680538097075695 0
+61C:\Users\carmo\Desktop\vanilla-js\dist\vanilla-js.59712999.js133680538096995381 0
+46C:\Users\carmo\Desktop\vanilla-js\package.json133680537369384055 0
+44C:\Users\carmo\Desktop\vanilla-js\.gitignore133680530449753396 0
+51C:\Users\carmo\Desktop\vanilla-js\package-lock.json133680530449768515 0
+43C:\Users\carmo\Desktop\vanilla-js\README.md133680530449762580 0
+37C:\Users\carmo\Desktop\vanilla-js\src133680530449789835 1
+48C:\Users\carmo\Desktop\vanilla-js\src\index.html133680532516161098 0
+46C:\Users\carmo\Desktop\vanilla-js\src\index.js133680537796086195 0
