@@ -1,0 +1,8 @@
+{
+    "users":[
+        {"username": "Alejandro", "id:":"Thylink"},
+        {"username": "Adrian", "id":"Blackgonzo"},
+        {"username": "Tony", "id":"Teiwaz"},
+        {"username":"Sebastian", "id":"Tesla"}
+    ]
+}
