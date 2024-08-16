@@ -6,7 +6,7 @@ class calculadora {
         this.valor2=valor2;
     }
 
-    sumar(valor,valor2){
+    sumar(){
        return this.valor+this.valor2;
     }
     restar(){
